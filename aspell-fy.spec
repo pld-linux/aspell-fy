@@ -6,7 +6,7 @@ Version:	0.12
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/fy/aspell6-fy-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/fy/aspell6-fy-%{version}-%{subv}.tar.bz2
 # Source0-md5:	7c356ab9a52e546bdf75af8774b6d9bf
 URL:		http://aspell.net/
 BuildRequires:	aspell >= 3:0.60
