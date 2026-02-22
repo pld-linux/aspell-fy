@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik fryzyjski dla aspella
 Name:		aspell-fy
 Version:	0.12
 %define	subv	0
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/fy/aspell6-fy-%{version}-%{subv}.tar.bz2
